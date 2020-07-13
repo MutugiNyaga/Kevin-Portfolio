@@ -1,5 +1,5 @@
 ## Kevin-Portfolio
-[Check it out](https://github.com/MutugiNyaga/Kevin-Portfolio.git/)
+[Check it out](https://mutuginyaga.github.io/Kevin-Portfolio//)
 
 ## Description.
 The creative junior front end developer portfolio is more than a simple resume. 
